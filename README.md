@@ -1,5 +1,7 @@
 # PrecisionAgriculture
 
+- NOTE: Refer to the .rar as it contains the entire code base!
+
 - This project presents the design, development, and deployment of a low-power, long-range 
 wireless sensor network (WSN) for precision agriculture, utilizing STM32 microcontrollers 
 and LoRa technology. The system aims to address the challenges of limited coverage and 
